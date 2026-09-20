@@ -61,6 +61,3 @@ Example:
   "debt": 300
 }
 ```
-
-## Important
-This is an educational/portfolio risk model, not investment advice or a regulated credit decisioning system. A real deployment needs validated labels, representative historical data, calibration, drift monitoring, fairness testing, governance, audit logs, and domain/legal review.
